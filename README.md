@@ -11,7 +11,7 @@ screenshots on failure, HTML reporting, and a bonus API testing layer using
 Python Requests for hybrid UI + API verification.
 
 📂 [View the capstone project](./capstone-project)
-📄 Full project report included inside the capstone folder
+📄 [View the full project report](./capstone-project/Capstone_Project_Report.pdf)
 
 **Tech stack:** Python · Selenium WebDriver · PyTest · Unittest · Requests · pytest-html
 
