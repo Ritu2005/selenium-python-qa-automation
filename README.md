@@ -1,4 +1,12 @@
 
+## 👤 About Me
+
+**Sukriti Sikdar**  
+🎓 **Enrollment ID:** 12023002029101  
+CSE (IoT, Cyber Security, Blockchain Technology), 4th Year, B-52  
+Institute of Engineering and Management, Kolkata  
+📧 **Email:** sukriti.sikdar2023@iem.edu.in
+
 ## 🚀 Capstone Project
 
 **Selenium Python Automation Framework (Unittest + PyTest + Page Object Model)**
@@ -29,13 +37,5 @@ automation, and Python.
 
 📂 [View certificates](./certificates)
 
-## 👤 About Me
-
-**Sukriti Sikdar**  
-🎓 **Enrollment ID:** 12023002029101  
-CSE (IoT, Cyber Security, Blockchain Technology), 4th Year, B-52  
-Institute of Engineering and Management, Kolkata  
-📧 **Email:** sukriti.sikdar2023@iem.edu.in
 
 ---
-⭐ This repository is a work in progress as I continue building my QA automation skill set.
